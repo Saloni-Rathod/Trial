@@ -68,7 +68,7 @@
     "material-ui-pickers": "1.0.0-rc.9",
     "moment": "2.22.2",
     "mongoose": "^5.4.4",
-    "mui-datatables": "2.3.0",
+    "mui-datatables": "4.6.1",
     "papaparse": "^4.6.3",
     "rc-drawer": "^1.7.7",
     "rc-queue-anim": "1.6.1",
